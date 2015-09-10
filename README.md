@@ -1,2 +1,2 @@
-# dotfiles :gift:
+# dotfiles :cloud:
 For use with `stow`
